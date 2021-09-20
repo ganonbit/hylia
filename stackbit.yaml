@@ -850,6 +850,7 @@ models:
           - auto
           - contain
           - cover
+          - 500px
         default: cover
         description: The size of the background image
       - type: enum

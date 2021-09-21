@@ -230,7 +230,8 @@ export default {
                 "list": [
                     "auto",
                     "contain",
-                    "cover"
+                    "cover",
+                    "500px"
                 ]
             }
         },
